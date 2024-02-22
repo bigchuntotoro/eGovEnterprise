@@ -22,6 +22,7 @@
 	</properties>
 
 	<repositories>
+				<!--
 		<repository>
 			<id>mvn2s</id>
 			<url>https://repo1.maven.org/maven2/</url>
@@ -32,7 +33,7 @@
 				<enabled>true</enabled>
 			</snapshots>
 		</repository>
-		<!--
+
 		<repository>
 			<id>egovframe</id>
 			<url>http://maven.egovframe.go.kr/maven/</url>			
