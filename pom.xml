@@ -22,7 +22,7 @@
 	</properties>
 
 	<repositories>
-				<!--
+
 		<repository>
 			<id>mvn2s</id>
 			<url>https://repo1.maven.org/maven2/</url>
@@ -48,7 +48,7 @@
 			<id>cubrid</id>
 			<url>http://maven.cubrid.org/</url>
 		</repository>   
-		-->     
+  
 	</repositories>
 	<dependencies>
 		<dependency>
