@@ -22,6 +22,16 @@
 	</properties>
 	<repositories>
 		<repository>
+			<id>mvn1s</id>
+			<url>https://repo.maven.apache.org/maven2/</url>
+			<releases>
+				<enabled>true</enabled>
+			</releases>
+			<snapshots>
+				<enabled>true</enabled>
+			</snapshots>
+		</repository>		
+		<repository>
 			<id>mvn2s</id>
 			<url>https://repo1.maven.org/maven2/</url>
 			<releases>
